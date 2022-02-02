@@ -26,7 +26,7 @@ Não tenha medo de aprender 2 ou 3 linguagens a mais para dominar esse paradgma.
 - [Programação Orientada a Objetos (POO)](https://www.youtube.com/watch?v=QY0Kdg83orY)
 - [Curso de programação oriendada a objetos](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 
-## O Dart
+## O Dart ----->  OK
 
 Após entender mais sobre Lógica de Programação, devemos focar na linguagem principal do Flutter, o Dart.
 
